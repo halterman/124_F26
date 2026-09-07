@@ -1,5 +1,5 @@
 # Author: Rick Halterman
-# Revised in September 7, 2026
+# Revised September 7, 2026
 
 # Get the input from the user
 print("This program converts hours, minutes, and seconds to total seconds.")
