@@ -1,0 +1,11 @@
+max_count = int(input('Please enter how many numbers to add: '))
+
+count = 0
+sum = 0
+
+while count < max_count:
+    num = int(input('Enter number: '))
+    count += 1
+    sum += num
+
+print(f'sum = {sum}')
